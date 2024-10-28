@@ -21,7 +21,7 @@
   <!-- nav -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow-sm font">
     <div class="container">
-      <a class="navbar-brand d-flex align-items-center" href="home.php">
+      <a class="navbar-brand d-flex align-items-center" href="index.php">
         <img src="image/logo.png" alt="logo" width="40" class="me-2">
         <span class="fw-bold">SAWASDEETRANS</span>
       </a>
@@ -32,7 +32,7 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="home.php">หน้าหลัก</a>
+            <a class="nav-link" href="index.php">หน้าหลัก</a>
           </li>
           <li class="nav-item">
             <a class="nav-link active" href="infomation.php">บริการเช่ารถ</a>

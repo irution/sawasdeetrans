@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Charm:wght@700&family=Kanit:wght@300&display=swap');
+
+.font{
+    font-family: 'Kanit', sans-serif;
+}
+
+.wallpaper{
+    background-color: white;
+    background-image: url(https://cdn.discordapp.com/attachments/1022327186667098193/1031943692593930361/pic.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    opacity: 0.9;
+}
+
+.buttona{
+        width: 60%;
+        margin: 0 auto;
+        font-size: 17px;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}

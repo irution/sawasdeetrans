@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Charm:wght@700&family=Kanit:wght@300&display=swap');
+
+body{
+    font-family: 'Kanit', sans-serif;
+}
+
+.line{
+    border-top: 3px solid #fad9a8;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+@media (min-width: 1400px) { 
+    #row2{
+        background-color: #FBDA61;
+background-image: linear-gradient(45deg, #FBDA61 0%, #f87bd4 100%);    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) { 
+    #row2{
+        background-color: #FBDA61;
+background-image: linear-gradient(45deg, #FBDA61 0%, #f87bd4 100%);    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+    #row2{
+        background-color: #FBDA61;
+        background-image: linear-gradient(45deg, #FBDA61 0%, #f87bd4 100%);    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) { 
+    #row2{
+        background-color: #FBDA61;
+background-image: linear-gradient(45deg, #FBDA61 0%, #f87bd4 100%);    }
+}
+
+@media (max-width: 767px) { 
+    #row2{
+        background-color: #FBDA61;
+        background-image: linear-gradient(45deg, #FBDA61 0%, #f87bd4 100%);    }
+}

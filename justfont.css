@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Charm:wght@700&family=Kanit:wght@300&display=swap');
+
+.font{
+    font-family: 'Kanit', sans-serif;
+}
+
+
+.footer a {
+    color: #333;
+    text-decoration: none;
+}
+

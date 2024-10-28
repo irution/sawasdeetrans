@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Charm:wght@700&family=Kanit:wght@300&display=swap');
+
+.font{
+    font-family: 'Kanit', sans-serif;
+}
+
+.wallpaper{
+    background-color: white;
+    background-image: url(https://cdn.discordapp.com/attachments/1022327186667098193/1032190799640809504/123.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    opacity: 0.9;
+}
+
+.wallpaperr{
+    background-color: white;
+    background-image: url(https://cdn.discordapp.com/attachments/1022327186667098193/1031943692593930361/pic.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: grid;
+    opacity: 0.9;
+}
+
+.wallpaperd{
+    background-color: white;
+    background-image: url(image/2.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    opacity: 0.9;
+}
+
+.wallpapera{
+    background-color: white;
+    background-image: url(image/Artboard\ 1.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    opacity: 0.9;
+}
+
+.line{
+    border-top: 3px solid #fad9a8;
+}
+
+hr.solidLine{
+    border: 1px solid black;
+}
+
+body{
+    margin-top: 55px;
+}
+
+.a2{
+    margin-top: 250px;
+}
+
+.containerr {
+    width: 100%;
+    margin: 250px auto 0;
+    margin-left: auto;
+ }
+
+.containera{
+    position:fixed; 
+    top:0;
+    left:0;
+    right:0; 
+    bottom:0; 
+    width:auto; 
+    height:200px; /****set height****/
+    margin:auto;
+}
+
+.iwag {
+    max-width: 100%;
+    width: 500px;
+  }
+
+.h2 {
+    text-shadow: 2px 2px #000000;
+  }
+
+  a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
